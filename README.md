@@ -6,6 +6,7 @@ Required Tools:
 ### Clone the Repo and go to **Rapifuzz_Assignment/drf** foldet:
 ```bash
 git clone https://github.com/Shoony0/Rapifuzz_Assignment.git
+rm Rapifuzz_Assignment/mysql_data/delete.txt
 cd Rapifuzz_Assignment/drf
 ```
 
