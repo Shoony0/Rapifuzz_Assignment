@@ -16,4 +16,4 @@ docker compose --env-file .env -f docker-compose.yml up --build --force-recreate
 ```
 
 ### ROOT API URL
-http://localhost:808/
+- http://localhost:800/
